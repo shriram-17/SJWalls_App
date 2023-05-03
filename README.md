@@ -19,11 +19,10 @@
 <img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/9.png" height="350"/>
 </p>
 
-### Credits / Settings
+### Settings
 
 <p align="center">
 <img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/10.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/11.png" height="350"/>
 </p>
 
 ---
